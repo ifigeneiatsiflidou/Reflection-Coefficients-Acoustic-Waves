@@ -10,5 +10,11 @@ This project provides a numerical and graphical study of the reflection of plane
 
 ## Files
 
-- `src/Reflection_Coefficient_Analysis.py`: Core Python script
-- `report/Reflection_Coefficient_Analysis.pdf`: Full theoretical and graphical analysis
+- **Python Script:**  
+  `Analysis of Reflection Coefficients for Elastic and Fluid Seabed Models.py`  
+  Performs the numerical simulation and plots the results.
+
+- **PDF Report:**  
+  `Analysis of Reflection Coefficients for Elastic and Fluid Seabed Models.pdf`  
+  Full explanation of theory, method, and results (including Snell's Law and acoustic impedance).
+
